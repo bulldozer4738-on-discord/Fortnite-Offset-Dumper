@@ -7,4 +7,4 @@ Offset Dumper exe: https://cdn.discordapp.com/attachments/870518005010956288/932
 
 Offset Dumper Src: https://cdn.discordapp.com/attachments/870518005010956288/932162902981476382/src.bat
 
-Discords/Credits: bulldozer#4738 and Elf#6622
+Discord/Credits: bulldozer#4738 and Elf#6622
